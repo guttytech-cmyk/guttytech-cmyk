@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "exportedAt": "2025-12-29T09:47:48.835Z",
+  "exportedAt": "2025-12-29T09:52:53.720Z",
   "profile": {
     "title": "GuttyTECH",
     "subtitle": "World Champion Overclocker | High-Performance Systems Architect",
@@ -15,8 +15,8 @@
     "badgeStyle": "flat",
     "badgeColor": "0e75b6",
     "badgeLabel": "Profile views",
-    "githubProfileTrophy": true,
-    "githubStats": true,
+    "githubProfileTrophy": false,
+    "githubStats": false,
     "githubStatsOptions": {
       "theme": "",
       "titleColor": "",
@@ -26,7 +26,7 @@
       "cacheSeconds": null,
       "locale": "en"
     },
-    "topLanguages": true,
+    "topLanguages": false,
     "topLanguagesOptions": {
       "theme": "",
       "titleColor": "",
@@ -36,7 +36,7 @@
       "cacheSeconds": null,
       "locale": "en"
     },
-    "streakStats": true,
+    "streakStats": false,
     "streakStatsOptions": {
       "theme": ""
     },
@@ -60,13 +60,13 @@
     "stackoverflow": "",
     "kaggle": "",
     "codesandbox": "",
-    "fb": "GuttyTECH",
+    "fb": "",
     "instagram": "GuttyTECH",
     "twitter": "GuttyTECH",
     "dribbble": "",
     "behance": "",
     "medium": "",
-    "youtube": "UCpJIIqOfaDL6M3KKLnmSDMg",
+    "youtube": "",
     "codechef": "",
     "hackerrank": "",
     "codeforces": "",
@@ -74,7 +74,7 @@
     "topcoder": "",
     "hackerearth": "",
     "geeks_for_geeks": "",
-    "discord": "https://discord.com/invite/gutty",
+    "discord": "",
     "rssurl": "",
     "twitterBadge": false
   },
