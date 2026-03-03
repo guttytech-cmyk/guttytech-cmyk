@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **guttytech@gmail.com**
 
-- ⚡ Fun fact ** I don't see code, I see raw frametimes. 🚀**
+- ⚡ Fun fact **I don't see code, I see raw frametimes.🚀**
 
 - 👨‍💻 All of my projects are available at **[https://guttytech.com.br](https://guttytech.com.br)**
 
