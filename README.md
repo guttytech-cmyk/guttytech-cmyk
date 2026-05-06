@@ -1,6 +1,6 @@
 # Hi 👋, I'm GuttyTECH
 
-### World Champion Overclocker | High-Performance Systems Architect
+### Overclocker | High-Performance Systems Architect
 
 - 🔭 I'm currently working on **Forging the "Arsenal Ômega" (System Optimization Suite)**
 
