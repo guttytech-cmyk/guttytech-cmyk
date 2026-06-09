@@ -1,31 +1,92 @@
-# Hi 👋, I'm GuttyTECH
+<div align="center">
 
-### Overclocker | High-Performance Systems Architect
+# GUTTYTECH
 
-- 🔭 I'm currently working on **Forging the "Arsenal Ômega" (System Optimization Suite)**
+### Overclocker | High-Performance Systems Architect | Windows Kernel Specialist
 
-- 🌱 I'm currently learning **Advanced Windows Kernel Debugging & Low-Level Hardware Access**
+[![Website](https://img.shields.io/badge/Website-guttytech.com.br-FF0000?style=for-the-badge)](https://guttytech.com.br)
+[![YouTube](https://img.shields.io/badge/YouTube-GuttyTECH-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@guttytech)
+[![Email](https://img.shields.io/badge/Email-guttytech@gmail.com-FF0000?style=for-the-badge)](mailto:guttytech@gmail.com)
 
-- 👯 I'm looking to collaborate on **Open-source Windows optimization scripts & Benchmarking tools**
+</div>
 
-- 🤝 I'm looking for help with **Reverse engineering proprietary bloatware**
+---
 
-- 💬 Ask me about **IOS Tuning, Memory Sub-timings, Input Lag Reduction & Windows Internals**
+## O que eu faco
 
-- 📫 How to reach me **guttytech@gmail.com**
+- **Campeao Nacional de Overclock** — Performance e obsessao, nao opcao
+- **Arsenal Omega** — Suite de otimizacao Windows Ring-0 (116 breakers, 14 modulos)
+- **GuttyTECH Commander** — C# .NET 9 Native AOT, AES-256, HWID DRM, Ouroboros AI
+- **Ouroboros Pipeline** — 86.052 repos GitHub indexados, 118.920 artefatos de otimizacao
+- **Benchmarking Real** — LatencyMon, CapFrameX, DPC/ISR analysis
+- **Anti-Cheat First** — Registry-only, nunca toca memoria protegida
 
-- ⚡ Fun fact I don't see code, I see raw frametimes.🚀
+---
 
-- 👨‍💻 All of my projects are available at **[https://guttytech.com.br](https://guttytech.com.br)**
+## Arsenal Omega — O Projeto
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/GuttyTECH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GuttyTECH" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/GuttyTECH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GuttyTECH" height="30" width="40" /></a>
-<a href="https://instagram.com/GuttyTECH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GuttyTECH" height="30" width="40" /></a>
-<a href="https://twitter.com/GuttyTECH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GuttyTECH" height="30" width="40" /></a>
-</p>
+| Componente | Stack | Status |
+|-----------|-------|--------|
+| **Commander** | C# .NET 9, WPF, Native AOT | v2.9.4 |
+| **Overlord** | C# .NET 9, Mission Control | v1.0 |
+| **Pocket** | Next.js 16, Capacitor 7.6 | Mobile |
+| **Ouroboros** | Cloudflare Worker, Supabase, RAG | v2.4.1 |
+| **Site** | Next.js 16, Tailwind, Vercel | Live |
+| **Worker** | Hono, Wrangler, Stripe, JWT | Healthy |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
 
+## Metricas
+
+- **928+** testes automatizados PASS
+- **116** breakers de otimizacao validados
+- **200** jogos suportados na Engine Matrix
+- **86.052** repos indexados pelo Ouroboros
+
+---
+
+## Tech Stack
+
+```
+C# .NET 9    |  WPF XAML    |  Native AOT    |  P/Invoke Win32
+Next.js 16   |  React 19    |  Tailwind CSS  |  TypeScript
+Cloudflare   |  Supabase    |  PostgreSQL    |  pgvector
+Stripe       |  JWT         |  AES-256       |  HWID DRM
+PowerShell 7 |  GitHub CI   |  Docker        |  Hyper-V
+```
+
+---
+
+## Conteudo
+
+- [YouTube](https://youtube.com/@guttytech) — Tutoriais de otimizacao, benchmarks, reviews
+- [Website](https://guttytech.com.br) — Arsenal Omega e licenciamento
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guttytech-cmyk&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guttytech-cmyk&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&border_color=FF0000)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=guttytech-cmyk&theme=dark&fire=FF0000&ring=FF0000&currStreakLabel=FF0000)
+
+</div>
+
+---
+
+## Links
+
+- **Website:** [guttytech.com.br](https://guttytech.com.br)
+- **Email:** [guttytech@gmail.com](mailto:guttytech@gmail.com)
+
+---
+
+<div align="center">
+
+**Performance e obsessao, nao opcao.**
+
+</div>
