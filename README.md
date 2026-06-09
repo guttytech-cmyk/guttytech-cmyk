@@ -4,9 +4,9 @@
 
 ### Overclocker | High-Performance Systems Architect | Windows Kernel Specialist
 
-[![Website](https://img.shields.io/badge/Website-guttytech.com.br-FF0000?style=for-the-badge)](https://guttytech.com.br)
+[![Website](https://img.shields.io/badge/Website-guttytech.com-FF0000?style=for-the-badge)](https://guttytech.com)
 [![YouTube](https://img.shields.io/badge/YouTube-GuttyTECH-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@guttytech)
-[![Email](https://img.shields.io/badge/Email-guttytech@gmail.com-FF0000?style=for-the-badge)](mailto:guttytech@gmail.com)
+[![Email](https://img.shields.io/badge/Email-admin@guttytech.com-FF0000?style=for-the-badge)](mailto:admin@guttytech.com)
 
 </div>
 
@@ -31,8 +31,8 @@
 | **Overlord** | C# .NET 9, Mission Control | v1.0 |
 | **Pocket** | Next.js 16, Capacitor 7.6 | Mobile |
 | **Ouroboros** | Cloudflare Worker, Supabase, RAG | v2.4.1 |
-| **Site** | Next.js 16, Tailwind, Vercel | Live |
-| **Worker** | Hono, Wrangler, Stripe, JWT | Healthy |
+| **Site** | Next.js 16, Tailwind, Vercel | [guttytech.com](https://guttytech.com) |
+| **Worker** | Hono, Wrangler, Stripe, JWT | [drm.guttytech.com](https://drm.guttytech.com/health) |
 
 ---
 
@@ -60,7 +60,7 @@ PowerShell 7 |  GitHub CI   |  Docker        |  Hyper-V
 ## Conteudo
 
 - [YouTube](https://youtube.com/@guttytech) — Tutoriais de otimizacao, benchmarks, reviews
-- [Website](https://guttytech.com.br) — Arsenal Omega e licenciamento
+- [Website](https://guttytech.com) — Arsenal Omega e licenciamento
 
 ---
 
@@ -80,8 +80,9 @@ PowerShell 7 |  GitHub CI   |  Docker        |  Hyper-V
 
 ## Links
 
-- **Website:** [guttytech.com.br](https://guttytech.com.br)
-- **Email:** [guttytech@gmail.com](mailto:guttytech@gmail.com)
+- **Website:** [guttytech.com](https://guttytech.com)
+- **Email:** [admin@guttytech.com](mailto:admin@guttytech.com)
+- **DRM Health:** [drm.guttytech.com/health](https://drm.guttytech.com/health)
 
 ---
 
